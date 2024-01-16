@@ -1,5 +1,5 @@
 # git
-Personal git cheat Sheet
+Personal git cheat Sheet.
 
 Delete all merged local branches
 
